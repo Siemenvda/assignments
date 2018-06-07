@@ -8,3 +8,4 @@ This repository contains my assignments
 [Graded Assignment2](https://github.com/Siemenvda/assignments/blob/master/graded_assignment_2.html)
 
 [Exam Python](https://github.com/Siemenvda/assignments/blob/master/exam_june_7_2018.ipynb)
+[Exam R](https://github.com/Siemenvda/assignments/blob/master/Exam_student.ipynb)
